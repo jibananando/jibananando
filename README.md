@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=61DAFB&vCenter=true&width=1000&height=60&lines=Hi%2C+I'm+Jibananando!;Front-End+Developer+%7C+MERN+Stack+Lover;React+%2B+Tailwind+%2B+Node.js+%2B+MongoDB;Let's+Build+Something+Great!+🚀" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4CAF50&center=false&vCenter=true&width=1000&lines=🌟+Welcome+to+my+GitHub+profile!;I’m+Jibananando%2C+a+MERN+Stack+Developer.;Let's+Build+Beautiful+Things+Together!+🚀)
 
 ---
 
