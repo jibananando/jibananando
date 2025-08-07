@@ -1,83 +1,94 @@
-<h1 align="center">👋 Hi there, I'm Jibananando</h1>
-<h3 align="center">MERN Stack Web Developer | JavaScript & React Specialist | Bachelor of Science in Mathematics</h3>
+<!-- Header Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=61DAFB&vCenter=true&width=1000&height=60&lines=Hi%2C+I'm+Jibananando!;Front-End+Developer+%7C+MERN+Stack+Lover;React+%2B+Tailwind+%2B+Node.js+%2B+MongoDB;Let's+Build+Something+Great!+🚀" alt="Typing SVG" />
 
 ---
 
-## 🧠 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-🎯 I’m a **Front-End Developer** focused on the **MERN stack**, committed to delivering dynamic and user-friendly web applications.  
-🧩 With strong attention to detail, I ensure seamless functionality and aesthetics in everything I build.  
-🧪 I enjoy keeping up with modern tools and web technologies to craft exceptional digital experiences.
+💡 I'm a dedicated **Front-End Developer** with expertise in the **MERN Stack**.  
+✨ I build modern, responsive, and user-first applications using **React**, **Tailwind**, and more.  
+🚀 Always learning new tech to create better digital experiences.  
+🤝 I’m open to exciting projects and collaborations!
 
-> _“Build clean. Build smart. Build for users.”_
+> _"Clean Code. Clear UX. Consistent Growth."_  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠 Tech Stack
+
+<div align="center">
 
 ### 🎨 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
-### ⚛️ Libraries & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-593D88?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react-query)
 
-### 🧩 Backend & API
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-%23007ec6?style=flat)
+### 🌐 Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+### 🔐 Security & Auth
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
-### 🔒 Security & Auth
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibananando&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibananando&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jibananando&theme=radical&show_icons=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibananando&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
-## 🧰 Featured Projects
+## 🚀 Featured Projects
 
 - 🚗 [**PARKAR** – Parking Lot Management App](https://parkarbyjibananando.netlify.app/)
-- ☕ [**Tea Vlogging** – My video blog on Facebook](https://www.facebook.com/JibananandoPramanik)
+- ☕ [**Tea Vlog** – My tea journey on Facebook](https://www.facebook.com/JibananandoPramanik)
 
 ---
 
-## 🤝 Let’s Connect
+## 🔗 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/jibananando" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/JibananandoPramanik" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:jibananando@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://jibananando.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=web&logoColor=white" alt="Portfolio">
+  <a href="https://jibananando.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h4 align="center">💡 “Keep building. Keep learning. Keep growing.”</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jibananando&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+---
+
+<h4 align="center">💬 “Consistency beats intensity. Code every day.”</h4>
