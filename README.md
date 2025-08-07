@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4CAF50&center=false&vCenter=true&width=1000&lines=🌟+Welcome+to+my+GitHub+profile!;I’m+Jibananando%2C+a+MERN+Stack+Developer.;Let's+Build+Beautiful+Things+Together!+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4CAF50&center=false&vCenter=true&width=1000&lines=Hey%2C+welcome+to+my+GitHub+profile.;I’m+Jibananando%2C+a+MERN+Stack+Developer.;Let's+Build+Beautiful+Things+Together!+🚀)
 
 ---
 
