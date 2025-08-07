@@ -3,7 +3,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2>👨‍💻 About Me</h2>
 
 💡 I'm a dedicated **Front-End Developer** with expertise in the **MERN Stack**.  
 ✨ I build modern, responsive, and user-first applications using **React**, **Tailwind**, and more.  
@@ -16,7 +16,7 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<div >
 
 ### 🎨 Front-End
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,12 +48,12 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=jibananando&theme=radical&show_icons=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&theme=radical" height="180"/>
 </p>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibananando&layout=compact&theme=radical" height="160"/>
 </p>
 
@@ -66,29 +66,23 @@
 
 ---
 
-## 🔗 Let's Connect
+## 🤝 Let’s Connect
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/jibananando" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/JibananandoPramanik" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="mailto:jibananando@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://jibananando.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  <a href="https://jibananando.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=web&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jibananando&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
----
-
-<h4 align="center">💬 “Consistency beats intensity. Code every day.”</h4>
+<h4 align="center">💡 “Keep building. Keep learning. Keep growing.”</h4>
