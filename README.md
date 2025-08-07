@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Jibananando</h1>
-<h3 align="center">💻 Front-End Developer | 🌐 MERN Stack Enthusiast | 🚀 Passionate Creator</h3>
+<h3 align="center">MERN Stack Web Developer | JavaScript & React Specialist | Bachelor of Science in Mathematics</h3>
 
 ---
 
