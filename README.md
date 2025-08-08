@@ -69,25 +69,22 @@
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.facebook.com/JibananandoPramanik" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/jibananando" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
   <a href="https://www.linkedin.com/in/jibananando" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/jibananando" target="_blank">
-    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
   <a href="https://jibananando.netlify.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%234CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+
+  <a href="https://x.com/jibananando" target="_blank">
+    <img alt="Twitter (X)" src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/JibananandoPramanik" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
 </p>
 
 <h4 align="left">💡 “Keep building. Keep learning. Keep growing.”</h4>
