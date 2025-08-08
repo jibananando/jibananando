@@ -50,8 +50,8 @@
 
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=jibananando&show_icons=true&bg_color=1e1e1e&title_color=FFA500&text_color=ffffff&icon_color=FFA500" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&background=1e1e1e&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=ffffff&sideLabels=FFA500&dates=ffffff" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibananando&layout=compact&bg_color=1e1e1e&title_color=FFA500&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&background=1e1e1e&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=ffffff&sideLabels=FFA500&dates=ffffff" height="180"/>
 </p>
 
 ---
