@@ -65,19 +65,13 @@
 
 ## 🤝 Let’s Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/jibananando" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/JibananandoPramanik" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="mailto:jibananando@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://jibananando.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=web&logoColor=white" alt="Portfolio">
-  </a>
+<p align="left" style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jibananando&show_icons=true&bg_color=1e1e1e&title_color=FFA500&text_color=ffffff&icon_color=FFA500" height="180" style="object-fit: contain;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&background=1e1e1e&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=ffffff&sideLabels=FFA500&dates=ffffff" height="180" style="object-fit: contain;" />
+</p>
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibananando&layout=compact&bg_color=1e1e1e&title_color=FFA500&text_color=ffffff" height="180" />
 </p>
 
 ---
