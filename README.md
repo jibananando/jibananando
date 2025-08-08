@@ -49,9 +49,9 @@
 ## 📊 GitHub Activity
 
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibananando&show_icons=true&bg_color=000000&title_color=FFA500&text_color=FFFFFF&icon_color=FFA500" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&background=000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF&sideLabels=FFA500&dates=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibananando&layout=compact&bg_color=000000&title_color=FFA500&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jibananando&show_icons=true&bg_color=fdf6e3&title_color=FF8C00&text_color=333333&icon_color=FF8C00" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&background=fdf6e3&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideNums=333333&sideLabels=FF8C00&dates=333333" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibananando&layout=compact&bg_color=fdf6e3&title_color=FF8C00&text_color=333333" height="180"/>
 </p>
 
 ---
