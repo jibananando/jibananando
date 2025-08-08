@@ -53,7 +53,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&background=1e1e1e&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=ffffff&sideLabels=FFA500&dates=ffffff" width="420" />
 </p>
 
-<p align="center" style="margin-top: 20px;">
+<p align="left" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibananando&layout=compact&bg_color=1e1e1e&title_color=FFA500&text_color=ffffff" height="180" />
 </p>
 
@@ -66,17 +66,31 @@
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-<p align="left" style="display: flex; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibananando&show_icons=true&bg_color=1e1e1e&title_color=FFA500&text_color=ffffff&icon_color=FFA500" height="180" style="object-fit: contain;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&background=1e1e1e&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=ffffff&sideLabels=FFA500&dates=ffffff" height="180" style="object-fit: contain;" />
-</p>
+<div align="left" style="background-color: #1e1e1e; padding: 20px; border-radius: 8px; color: white;">
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibananando&layout=compact&bg_color=1e1e1e&title_color=FFA500&text_color=ffffff" height="180" />
-</p>
+<a href="https://www.facebook.com/JibananandoPramanik" target="_blank" style="margin-right: 15px;">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 
+<a href="https://github.com/jibananando" target="_blank" style="margin-right: 15px;">
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/jibananando" target="_blank" style="margin-right: 15px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://x.com/jibananando" target="_blank" style="margin-right: 15px;">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
+</a>
+
+<a href="https://jibananando.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
 ---
 
 <h4 align="center">💡 “Keep building. Keep learning. Keep growing.”</h4>
