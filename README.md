@@ -78,13 +78,12 @@
   </a>
 
   <a href="https://x.com/jibananando" target="_blank">
-    <img alt="Twitter (X)" src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
   <a href="https://www.facebook.com/JibananandoPramanik" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-
 </p>
 
 <h4 align="left">💡 “Keep building. Keep learning. Keep growing.”</h4>
