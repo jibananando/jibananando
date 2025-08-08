@@ -49,8 +49,8 @@
 ## 📊 GitHub Activity
 
 <p align="left" style="display: flex; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jibananando&show_icons=true&bg_color=1e1e1e&title_color=FFA500&text_color=ffffff&icon_color=FFA500" width="420" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&background=1e1e1e&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=ffffff&sideLabels=FFA500&dates=ffffff" width="420" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jibananando&show_icons=true&bg_color=1e1e1e&title_color=FFA500&text_color=ffffff&icon_color=FFA500" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&background=1e1e1e&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=ffffff&sideLabels=FFA500&dates=ffffff" width="420" />
 </p>
 
 <p align="left" style="margin-top: 20px;">
