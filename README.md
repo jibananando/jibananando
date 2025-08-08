@@ -48,13 +48,10 @@
 
 ## 📊 GitHub Activity
 
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=jibananando&theme=radical&show_icons=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&theme=radical" height="180"/>
-</p>
-
-<p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibananando&layout=compact&theme=radical" height="160"/>
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jibananando&theme=pastel&show_icons=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jibananando&theme=pastel" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jibananando&layout=compact&theme=pastel" height="180"/>
 </p>
 
 ---
